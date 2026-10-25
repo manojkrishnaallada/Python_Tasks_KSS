@@ -1,0 +1,5 @@
+#Convert an float to a integer.
+
+a = 3.5
+a = int(a)
+print(a)
