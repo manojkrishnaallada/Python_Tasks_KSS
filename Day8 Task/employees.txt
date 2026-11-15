@@ -1,0 +1,4 @@
+Manoj 80000
+Krishna 70000
+Munnu 50000
+Manoj 40000

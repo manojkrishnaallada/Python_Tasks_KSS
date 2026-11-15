@@ -1,0 +1,3 @@
+Python is very popular programming language.
+It is easy to read
+File handling helps us store data permanently.
