@@ -1,0 +1,7 @@
+       Name  Marks Grade
+0  Student1     42  Fail
+1  Student2     30  Fail
+2  Student3     67     C
+3  Student4     74     B
+4  Student5     71     B
+Average: 56.8
